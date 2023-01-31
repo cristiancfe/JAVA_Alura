@@ -1,2 +1,2 @@
 # JAVA_Alura
-Estudos da linguagem JAVA
+Estudos da linguagem JAVA Herança e Poliformismo
